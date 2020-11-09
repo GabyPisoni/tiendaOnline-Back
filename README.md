@@ -18,7 +18,9 @@ Y descargado el front Link :https://github.com/GabyPisoni/tiendaOnline
 
 ### Instalación 🔧
 
-Descargar el proyecto , luego ingresar a terminal o consola de comandos y ingresar npm install para instalar todas las dependencias.Una vez instalados cambiar el  nombre del archivo a .env SI NO NO VA A FUNCIONAR y va  a tener que cambiarse el puerto en el front del cual se esta pidiendo  los datos con axios de el backend, en ese caso ir al componente ShowMove que se encuentra en componentes en el front y cambiar el puerto al cual se le asigno con el useEfecct en axios(el puerto a cambiar sera el asignado en el numero de la termina que figure corriendo el backend por una cuestion lo configure al 3001 con la variable de entorno tomaria el 3002).Luego ingresar npm start
+Descargar el proyecto , luego ingresar a terminal o consola de comandos y ingresar npm install para instalar todas las dependencias.Una vez instalados cambiar el  nombre del archivo a .env  y va  a tener que cambiarse el puerto en el front del cual se esta pidiendo  los datos con axios de el backend, en ese caso ir al componente ShowMove que se encuentra en componentes en el front y cambiar el puerto al cual se le asigno con el useEfecct en axios(el puerto a cambiar sera el asignado en el numero de la termina que figure corriendo el backend por una cuestion lo configure al 3001 con la variable de entorno tomaria el 3002)
+Recomiendo hacer esto si no funcionan las variables de entorno o llegan a tener conflicto con las mimas
+.Luego ingresar npm start
 
 
 
