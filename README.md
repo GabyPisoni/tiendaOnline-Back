@@ -1,4 +1,4 @@
-#  tiendaOnline-Back
+#  TiendaOnline-Back
 Backend de tienda online , realizado con Node js y express , middleware de cors , routes y variables de entorno.
 ## Comenzando 🚀
 
