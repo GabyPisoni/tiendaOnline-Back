@@ -29,8 +29,8 @@ Descargar el proyecto , luego ingresar a terminal o consola de comandos y ingres
 ## Construido con 🛠️
 
 
-* [Dropwizard](https://expressjs.com/es/) - El framework de backend para crear el servidor 
-* [Maven](https://nodemon.io//) - Dependencia de node js para que guarde cada cambio realizado en el servidor cada vez que se guarda.
+* [Express](https://expressjs.com/es/) - El framework de backend para crear el servidor 
+* [Nodemoon](https://nodemon.io//) - Dependencia de node js para que guarde cada cambio realizado en el servidor cada vez que se guarda.
 * [dotenv](https://www.npmjs.com/package/dotenv) - Dependencia de node js para cargar las variables de entorno 
 
 
